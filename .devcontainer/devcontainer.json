@@ -1,0 +1,19 @@
+{
+  "name": "Clipo AI Backend",
+  "image": "mcr.microsoft.com/devcontainers/python:3.9",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "postCreateCommand": "sudo apt update && sudo apt install -y ffmpeg redis-server mongodb && pip install -r requirements.txt",
+  "forwardPorts": [8000, 6379, 27017, 5555],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.flake8",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
