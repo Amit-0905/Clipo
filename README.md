@@ -1,7 +1,4 @@
 # Clipo
-# 🎬 Clipo AI Backend Assignment
-
-
 
 # 🎬 Clipo AI Backend Assignment
 
