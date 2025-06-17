@@ -3,9 +3,17 @@
 
 
 
-![Clipo AI Logo](https://img.shields.io/badge/Clipo-AI%20Backend-blue?style=for FFmpeg and Celery Background Tasks**
+# 🎬 Clipo AI Backend Assignment
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodbimg.shields.io/badge/Celery-37B24D?style=for-the-badge&logo.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&//img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo of Contents
+![Clipo AI Logo](https://img.shields.io/badge/Clipo-AI%20Backend-blue?style=for-the-badge)
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery)](https://docs.celeryproject.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)](https://redis.io/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg)](https://ffmpeg.org/)
+
+Contents
 
 - [Overview](#-overview)
 - [Tech Stack](#-tech-stack)
@@ -502,4 +510,5 @@ docker-compose logs -f web celery-worker
 
 **Built with ❤️ for the Clipo AI Backend Assignment**
 
-![GitHub stars](https://img.shields.io/github/stars/Amit-0905/Clipo?styleorks](https://img.shields.io/github/forks/Amit-0905/cl includes all the requested elements with visual appeal, detailed setup instructions for both GitHub Codespaces and local development, sample API requests with multiple formats (cURL, Postman, Python), and complete FFmpeg command documentation. The file uses modern GitHub markdown features including badges, tables, code blocks with syntax highlighting, and mermaid diagrams for architecture visualization[1].
+[![GitHub Stars](https://img.shields.io/github/stars/Amit-0905/Clipo?style=for-the-badge)](https://github.com/Amit-0905/Clipo/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Amit-0905/Clipo?style=for-the-badge)](https://github.com/Amit-0905/Clipo/network/members)
